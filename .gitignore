@@ -1,0 +1,4 @@
+.venv
+gui.build
+gui.dist
+*.pyc
